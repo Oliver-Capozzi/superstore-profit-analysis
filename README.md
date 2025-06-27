@@ -216,5 +216,5 @@ Screenshots live in `` and are embedded below:
 
 ## 📝 License
 
-MIT — free to use, share, and adapt. Please credit **@YOUR\_USERNAME**.
+MIT — free to use, share, and adapt. Please credit **@Oliver-Capozzi**.
 
